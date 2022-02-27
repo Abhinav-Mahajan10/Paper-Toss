@@ -1,2 +1,2 @@
 # Cpp-Project
-Paper Toss using SDL.
+Paper Toss emulator using SDL.
